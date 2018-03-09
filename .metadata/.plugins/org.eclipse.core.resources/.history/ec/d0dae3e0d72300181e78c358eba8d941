@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+body{
+	background-color:#0D7;
+}
+
+table {
+	width:50%;
+}
+
+table th{
+	background-color:#888;
+}
+
+table tr{
+	background-color:white;
+}
+
+button{
+	background-color: black;
+    color: white;
+    width: 12%;
+    height: 40px;
+}
+

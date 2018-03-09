@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+body {
+    background:url(background.jpg);
+    background-size: cover;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+p {
+    color: red;
+}

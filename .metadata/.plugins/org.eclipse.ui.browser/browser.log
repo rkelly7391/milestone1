@@ -1,0 +1,24 @@
+
+Mar 07, 2018 22:12:16.97 NEW SESSION
+Mar 07, 2018 22:12:16.97 [5556:2340:0307/221216.976:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+
+Mar 09, 2018 14:08:17.57 NEW SESSION
+Mar 09, 2018 14:08:17.57 [7760:780:0309/140817.575:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:02:14.18 [888:412:0309/150214.180:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:03:18.85 [7140:5596:0309/150318.839:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:04:39.43 [7188:4820:0309/150439.434:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:25:07.92 [1032:8372:0309/152507.928:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:26:08.81 [4488:7896:0309/152608.811:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:28:19.19 [2792:8892:0309/152819.191:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:35:19.38 [7048:336:0309/153519.382:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:36:06.78 [516:8696:0309/153606.785:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:36:57.06 [6968:3284:0309/153657.063:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:42:20.68 [8692:7000:0309/154220.686:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:43:11.76 [1268:2448:0309/154311.765:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:48:43.55 [8172:1576:0309/154843.553:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:50:00.61 [3160:3592:0309/155000.608:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:55:36.26 [7880:6300:0309/155536.265:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 15:58:14.72 [6836:6740:0309/155814.721:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 16:01:45.68 [3740:7840:0309/160145.684:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 16:02:50.38 [3512:4484:0309/160250.367:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+Mar 09, 2018 16:04:38.06 [9056:7172:0309/160438.067:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.

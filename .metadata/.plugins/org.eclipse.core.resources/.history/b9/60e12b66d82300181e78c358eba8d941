@@ -1,0 +1,9 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<head>
+    <title>Ryan Airline</title>
+    <link rel="stylesheet" href="<c:url value="/resources/css/Home.css"></c:url>">
+  </head>
+  <body background="/ryanKellyAirline/src/main/webapp/WEB-INF/images/DSC_0120.NEF">
+  <p>Hello Ryan! </p>
+      <!-- <a href="tickets">TEst</a>.-->
+  </body>

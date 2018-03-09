@@ -1,0 +1,5 @@
+@charset "ISO-8859-1";
+body {
+   background-image: url("/resources/images/DSC_0120.NEF");
+   background-color: #cccccc;
+}
